@@ -1,3 +1,3 @@
 This repository is used to store the projects and labs related to learning Python.
 
-- [CS61A](https://cs61a.org/)
+- [CS61A](https://cs61a.org/)，For local testing: `python3 -m doctest` runs the doctests in a file, which are the examples in the docstrings of functions. Each test in the file consists of >>> followed by some Python code and the expected output. Here's how we can run the doctests in lab00.py: `python3 -m doctest lab00.py`
